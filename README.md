@@ -2,7 +2,10 @@
 
 ## Descrição
 
-Este repositório contém a análise de dados de vendas de produtos. Foram gerados gráficos de barras para representar a quantidade vendida por produto, a variação de vendas (%), e um gráfico de linhas para mostrar a evolução das vendas totais ao longo dos meses. Também foram criadas tabelas dinâmicas de vendas por produto e por mês/ano.
+Este repositório contém a análise de dados de vendas de produtos. Foram gerados gráficos de barras para representar a quantidade vendida por produto, a variação de vendas (%), e um gráfico de linhas para mostrar a evolução das vendas totais ao longo dos meses. Também foram criadas tabelas dinâmicas de vendas por produto e por mês/ano.  
+
+![Tabela 1](Captura de tela 2024-11-12 020351.png)
+
 
 ---
 
